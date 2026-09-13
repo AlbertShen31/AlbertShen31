@@ -5,4 +5,7 @@ Hi there! I'm Albert Shen, a passionate full-stack software developer and UIUC C
 I am currently working on dailyblocks, a mobile time blocking app with ~1K downloads on the iOS store, using React Native/JS. Subscribe to my newsletter on our [website](https://dailyblocks.app) for more info on future updates on the app.
 
 [![albertshen31 github stats](https://github-stats-extended.vercel.app/api?username=albertshen31&hide=contribs,issues)](https://github.com/stats-organization/github-stats-extended)
+
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=albertshen31&size_weight=0.5&count_weight=0.5)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=albertshen31)](https://git.io/streak-stats)
