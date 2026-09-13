@@ -6,6 +6,6 @@ I am currently working on dailyblocks, a mobile time blocking app with ~1K downl
 
 ![albertshen31 github stats](https://github-stats-extended.vercel.app/api?username=albertshen31&hide=stars,prs,issues,contribs)
 
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=albertshen31&size_weight=0.5&count_weight=0.5)
+[![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=albertshen31&layout=donut-vertical)](https://github.com/stats-organization/github-stats-extended)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=albertshen31&short_numbers=true)](https://git.io/streak-stats)
