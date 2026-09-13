@@ -8,4 +8,4 @@ I am currently working on dailyblocks, a mobile time blocking app with ~1K downl
 
 ![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=albertshen31&size_weight=0.5&count_weight=0.5)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=albertshen31)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=albertshen31&short_numbers=true)](https://git.io/streak-stats)
