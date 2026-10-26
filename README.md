@@ -36,7 +36,7 @@ Check out [dailyblocks.app](https://dailyblocks.app) to learn more and subscribe
 
 [![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=albertshen31&layout=compact)](https://github.com/stats-organization/github-stats-extended)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=albertshen31&short_numbers=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=albertshen31&short_numbers=true&timezone=America/New_York)](https://git.io/streak-stats)
 
 ### 🌐 Let's Connect
 
